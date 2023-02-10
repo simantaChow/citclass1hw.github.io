@@ -1,0 +1,135 @@
+*{padding: 0%; margin: 0%;}
+
+body{
+    background: rgb(116, 190, 190);
+}
+.main{
+    background-color: white;
+    height: auto;
+    width: 1000px;
+    margin: auto;  
+}
+
+.pagehedding{
+background-color: rgb(10, 10, 163);
+color: white;
+text-align: center;
+height: 50px;
+padding-top: 10px;
+}
+
+.mainHeading h1{
+text-align: center;
+color: blue;
+padding-top: 20px;
+}
+
+.pic_1 img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.artical_1{
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.artical_1 h3{
+    color: blue;
+}
+
+
+.artical_1 p{
+    text-align: justify;
+}
+
+.location_art{
+    width: 700px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.location_art h3{
+    color: blue;
+}
+
+
+.location_art p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.location_art iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.tourism_art p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.tourism_art img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+
+.beach_art p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.beach_art img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    padding-bottom: 20px;  
+}
+
+.comunication_art p{
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+.other_source iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+.ukipidia{
+    width: 600px;
+    height: 400px;
+}
+
+.footer_sec{
+    background-color: darkolivegreen;
+    height: 50px;
+    padding-top: 10px;
+    overflow: hidden;
+    text-align: center;
+}
+.footer_sec p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    display: inline;
+}
+
+.social_m_link a img{
+    width: 40px;
+    display: inline;
+    float: right;
+    padding-right: 10px;
+    margin-top: -20px;
+}
